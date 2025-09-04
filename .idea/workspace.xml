@@ -19,17 +19,34 @@
     "accountId": "9664457f-e5f7-44b0-98f1-1d8573fe47f6"
   }
 }]]></component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "git-widget-placeholder": "main",
+    "last_directory_selection": "C:/Users/HP/Desktop/JavaProjects-main/TaskTracker",
     "onboarding.tips.debug.path": "C:/Users/HP/Desktop/JavaProjects-main/src/Main.java",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.0"
+    "project.structure.side.proportion": "0.2"
   }
 }]]></component>
   <component name="TaskManager">
+    <task id="LOCAL-00001" summary="ecom project">
+      <option name="closed" value="true" />
+      <created>1757008247416</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1757008247416</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="ecom project" />
+    <option name="LAST_COMMIT_MESSAGE" value="ecom project" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
