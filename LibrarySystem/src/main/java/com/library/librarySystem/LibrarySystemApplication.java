@@ -1,4 +1,4 @@
-package com.library.librarySystem;
+package src.main.java.com.library.librarySystem;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class LibrarySystemApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(LibrarySystemApplication.class, args);
+		org.springframework.context.ConfigurableApplicationContext run = SpringApplication.run(LibrarySystemApplication.class, args);
 	}
 
 }
