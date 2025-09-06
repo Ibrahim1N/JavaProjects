@@ -4,34 +4,142 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="634c718a-ccf5-44a6-b190-8eec0e03f313" name="Changes" comment="ecom project" />
+    <list default="true" id="634c718a-ccf5-44a6-b190-8eec0e03f313" name="Changes" comment="ecom project">
+      <change afterPath="$PROJECT_DIR$/.idea/IntelliLang.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/data_source_mapping.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LibrarySystemBackend/src/main/java/com/library/librarySystem/WebConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LibrarySystemBackend/src/main/java/com/library/librarySystem/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LibrarySystemBackend/target/classes/com/library/librarySystem/controller/UserController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LibrarySystemBackend/target/classes/com/library/librarySystem/repository/BookRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProjects-main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaProjects-main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LibrarySystem/HELP.md" beforeDir="false" afterPath="$PROJECT_DIR$/LibrarySystemBackend/HELP.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LibrarySystem/mvnw" beforeDir="false" afterPath="$PROJECT_DIR$/LibrarySystemBackend/mvnw" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LibrarySystem/mvnw.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/LibrarySystemBackend/mvnw.cmd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LibrarySystem/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/LibrarySystemBackend/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LibrarySystem/src/main/java/com/library/librarySystem/LibrarySystemApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/LibrarySystemBackend/src/main/java/com/library/librarySystem/LibrarySystemApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LibrarySystem/src/main/java/com/library/librarySystem/controller/BookController.java" beforeDir="false" afterPath="$PROJECT_DIR$/LibrarySystemBackend/src/main/java/com/library/librarySystem/controller/BookController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LibrarySystem/src/main/java/com/library/librarySystem/controller/UserController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LibrarySystem/src/main/java/com/library/librarySystem/model/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/LibrarySystemBackend/src/main/java/com/library/librarySystem/model/Book.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LibrarySystem/src/main/java/com/library/librarySystem/model/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/LibrarySystemBackend/src/main/java/com/library/librarySystem/model/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LibrarySystem/src/main/java/com/library/librarySystem/repository/BookRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/LibrarySystemBackend/src/main/java/com/library/librarySystem/repository/BookRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LibrarySystem/src/main/java/com/library/librarySystem/repository/UserRepo.java" beforeDir="false" afterPath="$PROJECT_DIR$/LibrarySystemBackend/src/main/java/com/library/librarySystem/repository/UserRepo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LibrarySystem/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/LibrarySystemBackend/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LibrarySystem/src/test/java/com/library/librarySystem/LibrarySystemApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/LibrarySystemBackend/src/test/java/com/library/librarySystem/LibrarySystemApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LibrarySystem/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/LibrarySystemBackend/target/classes/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LibrarySystem/target/classes/com/library/librarySystem/LibrarySystemApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/LibrarySystemBackend/target/classes/com/library/librarySystem/LibrarySystemApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LibrarySystem/target/classes/com/library/librarySystem/controller/BookController.class" beforeDir="false" afterPath="$PROJECT_DIR$/LibrarySystemBackend/target/classes/com/library/librarySystem/controller/BookController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LibrarySystem/target/classes/com/library/librarySystem/controller/UserController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LibrarySystem/target/classes/com/library/librarySystem/model/Book.class" beforeDir="false" afterPath="$PROJECT_DIR$/LibrarySystemBackend/target/classes/com/library/librarySystem/model/Book.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LibrarySystem/target/classes/com/library/librarySystem/model/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/LibrarySystemBackend/target/classes/com/library/librarySystem/model/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LibrarySystem/target/classes/com/library/librarySystem/repository/BookRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LibrarySystem/target/classes/com/library/librarySystem/repository/UserRepo.class" beforeDir="false" afterPath="$PROJECT_DIR$/LibrarySystemBackend/target/classes/com/library/librarySystem/repository/UserRepo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringEcom/mvnw.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/SpringEcom/mvnw.cmd" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Ibrahim1N/JavaProjects.git",
-    "accountId": "9664457f-e5f7-44b0-98f1-1d8573fe47f6"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Ibrahim1N&quot;
   }
-}]]></component>
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Ibrahim1N/JavaProjects.git&quot;,
+    &quot;accountId&quot;: &quot;9664457f-e5f7-44b0-98f1-1d8573fe47f6&quot;
+  }
+}</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/3.5.5/spring-boot-3.5.5.jar!/org/springframework/boot/diagnostics/LoggingFailureAnalysisReporter.class" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="KubernetesApiPersistence">{}</component>
+  <component name="KubernetesApiProvider">{
+  &quot;isMigrated&quot;: true
+}</component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "git-widget-placeholder": "main",
-    "last_directory_selection": "C:/Users/HP/Desktop/JavaProjects-main/TaskTracker",
-    "onboarding.tips.debug.path": "C:/Users/HP/Desktop/JavaProjects-main/src/Main.java",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2"
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="32FFkXo25agQgY6Fe6o0ba8M92Y" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.LibrarySystemApplication.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.LibrarySystemApplicationTests.executor&quot;: &quot;Run&quot;,
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;Spring Boot.LibrarySystemApplication.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_directory_selection&quot;: &quot;C:/Users/HP/Desktop/JavaProjects-main/TaskTracker&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/HP/Desktop/JavaProjects-main/src/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;postgresql&quot;
+    ]
   }
-}]]></component>
+}</component>
+  <component name="RunManager">
+    <configuration name="LibrarySystemApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="librarySystem" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.library.librarySystem.LibrarySystemApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.25557.131" />
+        <option value="bundled-js-predefined-d6986cc7102b-b598e85cdad2-JavaScript-IU-252.25557.131" />
+      </set>
+    </attachedChunks>
+  </component>
   <component name="TaskManager">
     <task id="LOCAL-00001" summary="ecom project">
       <option name="closed" value="true" />
@@ -41,8 +149,29 @@
       <option name="project" value="LOCAL" />
       <updated>1757008247416</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="ecom project">
+      <option name="closed" value="true" />
+      <created>1757008286359</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1757008286359</updated>
+    </task>
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="634c718a-ccf5-44a6-b190-8eec0e03f313" name="Changes" comment="ecom project" />
+      <created>1757008558603</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1757008558603</updated>
+      <workItem from="1757092639509" duration="56000" />
+      <workItem from="1757092817248" duration="1972000" />
+      <workItem from="1757154499759" duration="631000" />
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="ecom project" />
